@@ -1,0 +1,6 @@
+C:\Users\UPN\Desktop\SEMANA 5 DIARSO\SEMANA9_C#\Biblioteca1\bin\Debug\Biblioteca1.dll
+C:\Users\UPN\Desktop\SEMANA 5 DIARSO\SEMANA9_C#\Biblioteca1\bin\Debug\Biblioteca1.pdb
+C:\Users\UPN\Desktop\SEMANA 5 DIARSO\SEMANA9_C#\Biblioteca1\obj\Debug\Biblioteca1.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\SEMANA 5 DIARSO\SEMANA9_C#\Biblioteca1\obj\Debug\Biblioteca1.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\SEMANA 5 DIARSO\SEMANA9_C#\Biblioteca1\obj\Debug\Biblioteca1.dll
+C:\Users\UPN\Desktop\SEMANA 5 DIARSO\SEMANA9_C#\Biblioteca1\obj\Debug\Biblioteca1.pdb

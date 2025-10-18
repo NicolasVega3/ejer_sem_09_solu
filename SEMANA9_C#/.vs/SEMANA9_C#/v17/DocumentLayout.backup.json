@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\SEMANA 5 DIARSO\\SEMANA9_C#\\",
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\solu_sem_09\\ejer_sem_09_solu\\SEMANA9_C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2FC59CA-CA37-4640-A087-EDCABE231067}|Biblioteca1\\Biblioteca1.csproj|c:\\users\\upn\\desktop\\semana 5 diarso\\semana9_c#\\biblioteca1\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C13EF8-D827-40DB-9180-48415132E133}|SEMANA9_C#\\SEMANA9_C#.csproj|C:\\Users\\USUARIO\\Desktop\\solu_sem_09\\ejer_sem_09_solu\\SEMANA9_C#\\semana9_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C13EF8-D827-40DB-9180-48415132E133}|SEMANA9_C#\\SEMANA9_C#.csproj|solutionrelative:semana9_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FC59CA-CA37-4640-A087-EDCABE231067}|Biblioteca1\\Biblioteca1.csproj|c:\\users\\usuario\\desktop\\solu_sem_09\\ejer_sem_09_solu\\semana9_c#\\biblioteca1\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2FC59CA-CA37-4640-A087-EDCABE231067}|Biblioteca1\\Biblioteca1.csproj|solutionrelative:biblioteca1\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2FC59CA-CA37-4640-A087-EDCABE231067}|Biblioteca1\\Biblioteca1.csproj|c:\\users\\upn\\desktop\\semana 5 diarso\\semana9_c#\\biblioteca1\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2FC59CA-CA37-4640-A087-EDCABE231067}|Biblioteca1\\Biblioteca1.csproj|C:\\Users\\USUARIO\\Desktop\\solu_sem_09\\ejer_sem_09_solu\\SEMANA9_C#\\biblioteca1\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2FC59CA-CA37-4640-A087-EDCABE231067}|Biblioteca1\\Biblioteca1.csproj|solutionrelative:biblioteca1\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2FC59CA-CA37-4640-A087-EDCABE231067}|Biblioteca1\\Biblioteca1.csproj|c:\\users\\upn\\desktop\\semana 5 diarso\\semana9_c#\\biblioteca1\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2FC59CA-CA37-4640-A087-EDCABE231067}|Biblioteca1\\Biblioteca1.csproj|C:\\Users\\USUARIO\\Desktop\\solu_sem_09\\ejer_sem_09_solu\\SEMANA9_C#\\biblioteca1\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2FC59CA-CA37-4640-A087-EDCABE231067}|Biblioteca1\\Biblioteca1.csproj|solutionrelative:biblioteca1\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2FC59CA-CA37-4640-A087-EDCABE231067}|Biblioteca1\\Biblioteca1.csproj|c:\\users\\upn\\desktop\\semana 5 diarso\\semana9_c#\\biblioteca1\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2FC59CA-CA37-4640-A087-EDCABE231067}|Biblioteca1\\Biblioteca1.csproj|C:\\Users\\USUARIO\\Desktop\\solu_sem_09\\ejer_sem_09_solu\\SEMANA9_C#\\biblioteca1\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2FC59CA-CA37-4640-A087-EDCABE231067}|Biblioteca1\\Biblioteca1.csproj|solutionrelative:biblioteca1\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60C13EF8-D827-40DB-9180-48415132E133}|SEMANA9_C#\\SEMANA9_C#.csproj|c:\\users\\upn\\desktop\\semana 5 diarso\\semana9_c#\\semana9_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60C13EF8-D827-40DB-9180-48415132E133}|SEMANA9_C#\\SEMANA9_C#.csproj|solutionrelative:semana9_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,28 +30,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\SEMANA 5 DIARSO\\SEMANA9_C#\\SEMANA9_C#\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\solu_sem_09\\ejer_sem_09_solu\\SEMANA9_C#\\SEMANA9_C#\\Program.cs",
               "RelativeDocumentMoniker": "SEMANA9_C#\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\SEMANA 5 DIARSO\\SEMANA9_C#\\SEMANA9_C#\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\solu_sem_09\\ejer_sem_09_solu\\SEMANA9_C#\\SEMANA9_C#\\Program.cs",
               "RelativeToolTip": "SEMANA9_C#\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwDYAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T17:32:41.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "triangulo.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\SEMANA 5 DIARSO\\SEMANA9_C#\\Biblioteca1\\triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\solu_sem_09\\ejer_sem_09_solu\\SEMANA9_C#\\Biblioteca1\\triangulo.cs",
               "RelativeDocumentMoniker": "Biblioteca1\\triangulo.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\SEMANA 5 DIARSO\\SEMANA9_C#\\Biblioteca1\\triangulo.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\solu_sem_09\\ejer_sem_09_solu\\SEMANA9_C#\\Biblioteca1\\triangulo.cs",
               "RelativeToolTip": "Biblioteca1\\triangulo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,39 +60,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "cuadrado.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\SEMANA 5 DIARSO\\SEMANA9_C#\\Biblioteca1\\cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\solu_sem_09\\ejer_sem_09_solu\\SEMANA9_C#\\Biblioteca1\\cuadrado.cs",
               "RelativeDocumentMoniker": "Biblioteca1\\cuadrado.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\SEMANA 5 DIARSO\\SEMANA9_C#\\Biblioteca1\\cuadrado.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\solu_sem_09\\ejer_sem_09_solu\\SEMANA9_C#\\Biblioteca1\\cuadrado.cs",
               "RelativeToolTip": "Biblioteca1\\cuadrado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T17:41:31.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "rectangulo.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\SEMANA 5 DIARSO\\SEMANA9_C#\\Biblioteca1\\rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\solu_sem_09\\ejer_sem_09_solu\\SEMANA9_C#\\Biblioteca1\\rectangulo.cs",
               "RelativeDocumentMoniker": "Biblioteca1\\rectangulo.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\SEMANA 5 DIARSO\\SEMANA9_C#\\Biblioteca1\\rectangulo.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\solu_sem_09\\ejer_sem_09_solu\\SEMANA9_C#\\Biblioteca1\\rectangulo.cs",
               "RelativeToolTip": "Biblioteca1\\rectangulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T17:41:42.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "trapecio.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\SEMANA 5 DIARSO\\SEMANA9_C#\\Biblioteca1\\trapecio.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\solu_sem_09\\ejer_sem_09_solu\\SEMANA9_C#\\Biblioteca1\\trapecio.cs",
               "RelativeDocumentMoniker": "Biblioteca1\\trapecio.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\SEMANA 5 DIARSO\\SEMANA9_C#\\Biblioteca1\\trapecio.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\solu_sem_09\\ejer_sem_09_solu\\SEMANA9_C#\\Biblioteca1\\trapecio.cs",
               "RelativeToolTip": "Biblioteca1\\trapecio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T17:41:53.624Z",
               "EditorCaption": ""

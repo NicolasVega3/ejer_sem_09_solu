@@ -4,3 +4,9 @@ C:\Users\UPN\Desktop\SEMANA 5 DIARSO\SEMANA9_C#\Biblioteca1\obj\Debug\Biblioteca
 C:\Users\UPN\Desktop\SEMANA 5 DIARSO\SEMANA9_C#\Biblioteca1\obj\Debug\Biblioteca1.csproj.CoreCompileInputs.cache
 C:\Users\UPN\Desktop\SEMANA 5 DIARSO\SEMANA9_C#\Biblioteca1\obj\Debug\Biblioteca1.dll
 C:\Users\UPN\Desktop\SEMANA 5 DIARSO\SEMANA9_C#\Biblioteca1\obj\Debug\Biblioteca1.pdb
+C:\Users\USUARIO\Desktop\solu_sem_09\ejer_sem_09_solu\SEMANA9_C#\Biblioteca1\bin\Debug\Biblioteca1.dll
+C:\Users\USUARIO\Desktop\solu_sem_09\ejer_sem_09_solu\SEMANA9_C#\Biblioteca1\bin\Debug\Biblioteca1.pdb
+C:\Users\USUARIO\Desktop\solu_sem_09\ejer_sem_09_solu\SEMANA9_C#\Biblioteca1\obj\Debug\Biblioteca1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\solu_sem_09\ejer_sem_09_solu\SEMANA9_C#\Biblioteca1\obj\Debug\Biblioteca1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\solu_sem_09\ejer_sem_09_solu\SEMANA9_C#\Biblioteca1\obj\Debug\Biblioteca1.dll
+C:\Users\USUARIO\Desktop\solu_sem_09\ejer_sem_09_solu\SEMANA9_C#\Biblioteca1\obj\Debug\Biblioteca1.pdb

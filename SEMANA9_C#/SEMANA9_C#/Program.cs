@@ -9,6 +9,9 @@ namespace SEMANA9_C_
         {
             triangulo t=new triangulo();
             cuadrado c=new cuadrado();           //estas son instancias para aceder a los metodos que hemos creado en la biblioteca
+            rectangulo r=new rectangulo();
+            trapecio tr=new trapecio();
+
             int opc1,opc2;
             string conti;
 
@@ -56,8 +59,53 @@ namespace SEMANA9_C_
                         }
 
                         break;
-                    case 3: break;
-                    case 4: break;
+                    case 3: 
+                        opc2 = menu2();
+                        switch (opc2) 
+                        {
+                            case 1: 
+                                int area=r.rectanguloarea();
+                                Console.WriteLine("\nArea: " + area);
+                                break;
+
+                            case 2: 
+                                int perimetro=r.rectanguloperimetro(); 
+                                Console.WriteLine("\nPerimetro: " + perimetro);
+                                break;
+
+                            default: Console.WriteLine("\nOpcion no valida"); break;
+                        }
+                        break;
+                    case 4:
+                        opc2 = menu2();
+                        switch (opc2) 
+                        {
+                            case 1:
+                                Console.Write("\nBase mayor: ");
+                                int base_mayor = int.Parse(Console.ReadLine());
+                                Console.Write("Base menor: ");
+                                int base_menor = int.Parse(Console.ReadLine());
+                                Console.Write("Altura: ");
+                                int altura = int.Parse(Console.ReadLine());
+
+                                double area = tr.trapecioarea(base_mayor, base_menor, altura);
+                                Console.WriteLine("\nArea: " + area);
+                                break;
+                            case 2:
+                                Console.Write("\nLado 1: ");
+                                int lado1 = int.Parse(Console.ReadLine());
+                                Console.Write("Lado 2: ");
+                                int lado2 = int.Parse(Console.ReadLine());
+                                Console.Write("Base mayor: ");
+                                int base_mayora = int.Parse(Console.ReadLine());
+                                Console.Write("Base menor: ");
+                                int base_menora = int.Parse(Console.ReadLine());
+
+                                int perimetro = tr.trapecioperimetro(lado1, lado2, base_mayora, base_menora);
+                                Console.WriteLine("\nPerimetro: " + perimetro);
+                                break;
+                        }
+                        break;
                 }
                 do 
                 {
